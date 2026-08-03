@@ -75,6 +75,8 @@ h3 { font-size:19px; line-height:1.35; letter-spacing:0; }
 .brand-card span { color:var(--muted); font-size:13px; }
 .page-hero { padding:42px 0 28px; background:transparent; border-bottom:3px solid var(--ink); }
 .breadcrumbs { font-size:13px; color:var(--muted); margin-bottom:24px; }
+.hero-back-link { display:inline-flex; align-items:center; margin:0 0 18px; padding:8px 12px; border:1px solid var(--ink); border-radius:999px; background:var(--ink); color:#fff; font-size:12px; font-weight:800; }
+.hero-back-link:hover { border-color:var(--green); background:var(--green); }
 .case-layout { padding:42px 0 70px; display:grid; grid-template-columns:minmax(0, 1fr) 292px; gap:34px; }
 .case-title { font-size:clamp(36px,5vw,60px); max-width:900px; margin:16px 0 18px; line-height:1.06; overflow-wrap:anywhere; word-break:break-word; }
 .meta-row { display:flex; flex-wrap:wrap; gap:8px; }
