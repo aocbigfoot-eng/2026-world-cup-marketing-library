@@ -1,0 +1,4 @@
+# Internal presentation: available only on localhost and Aone Pages.
+downloads/*.pptx
+assets/data-slide-*.png
+assets/data-visual-*.png
